@@ -1,0 +1,13 @@
+{
+  "name": "Work With Roi",
+  "short_name": "Work With Roi",
+  "description": "Real Estate Marketing & Digital Operations Specialist",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8f3",
+  "theme_color": "#0f2037",
+  "icons": [
+    {"src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
