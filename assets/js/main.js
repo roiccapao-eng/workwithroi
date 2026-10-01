@@ -6,7 +6,7 @@
   // Get this form key from https://web3forms.com/ (never use an email password).
   const WEB3FORMS = Object.freeze({
     endpoint: 'https://api.web3forms.com/submit',
-    accessKey: 'YOUR_ACCESS_KEY_HERE'
+    accessKey: '4945add8-1438-4d9a-87ad-0394ff36335a'
   });
 
   const formatPHP = (usd) => new Intl.NumberFormat('en-PH', {
